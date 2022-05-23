@@ -35,6 +35,7 @@
 ## About The Project
 
 This is a website were a person can see sentimental analysis of a twitter user. All one has to to do is just enter of the person's twitter handle.
+It classifies latest 200 tweets into clean, hate and offensive.
 
 
 ### Built With
